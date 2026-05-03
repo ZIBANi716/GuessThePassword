@@ -1,0 +1,7 @@
+C:\Visual Studio Projects\Тренировочные проекты\Угадай пароль\bin\Debug\Угадай пароль.exe.config
+C:\Visual Studio Projects\Тренировочные проекты\Угадай пароль\bin\Debug\Угадай пароль.exe
+C:\Visual Studio Projects\Тренировочные проекты\Угадай пароль\bin\Debug\Угадай пароль.pdb
+C:\Visual Studio Projects\Тренировочные проекты\Угадай пароль\obj\Debug\Угадай пароль.csproj.AssemblyReference.cache
+C:\Visual Studio Projects\Тренировочные проекты\Угадай пароль\obj\Debug\Угадай пароль.csproj.CoreCompileInputs.cache
+C:\Visual Studio Projects\Тренировочные проекты\Угадай пароль\obj\Debug\Угадай пароль.exe
+C:\Visual Studio Projects\Тренировочные проекты\Угадай пароль\obj\Debug\Угадай пароль.pdb
